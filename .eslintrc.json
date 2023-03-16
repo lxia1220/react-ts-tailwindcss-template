@@ -2,7 +2,8 @@
   "extends": [
     "airbnb",
     "airbnb-typescript",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "plugin:tailwindcss/recommended"
   ],
   "plugins": [
     "prettier"
